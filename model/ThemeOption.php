@@ -40,6 +40,29 @@ class BoomThemeOption{
 				'endpoint' => 0,
 			),
 			array(
+				'key' => 'field_590zasxf87cdsv9aksdfjh',
+				'label' => 'Pagina Cookie',
+				'name' => 'booom_cookie_page',
+				'type' => 'post_object',
+				'instructions' => '',
+				'required' => 1,
+				'conditional_logic' => 0,
+				'wrapper' => array(
+					'width' => '75',
+					'class' => '',
+					'id' => '',
+				),
+				'post_type' => array(
+					0 => 'page',
+				),
+				'taxonomy' => array(
+				),
+				'allow_null' => 0,
+				'multiple' => 0,
+				'return_format' => 'id',
+				'ui' => 1,
+			),
+			array(
 				'key' => 'field_5a81b4098207a',
 				'label' => 'Social',
 				'name' => 'boom_theme_social',

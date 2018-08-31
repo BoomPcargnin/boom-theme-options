@@ -3,7 +3,7 @@
 Plugin Name: Boom Themes options
 Plugin URI: http://www.boom.ink
 Description: PLugin thatgives the power to the user! 
-Version: 1.0
+Version: 1.1
 Author: Boom.ink di Paolo Cargnin
 Author URI: http://www.boom.ink
 */
