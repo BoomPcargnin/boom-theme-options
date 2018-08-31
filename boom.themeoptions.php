@@ -25,4 +25,4 @@ function boomthemeoptionsload() {
 //     wp_enqueue_style('boomBookablestyle');
 // }
 
-add_action( 'plugins_loaded', 'boomthemeoptionsload' );
+add_action( 'init', 'boomthemeoptionsload' );
